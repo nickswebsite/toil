@@ -1,0 +1,10 @@
+*.py[ocd]
+*.tar.gz
+*.tgz
+*.zip
+
+README
+
+x/
+dist/
+*.egg-info/

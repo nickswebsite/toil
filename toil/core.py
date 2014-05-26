@@ -41,6 +41,7 @@ class DefaultSettings(object):
     GITIGNORE_PYTHON = [
         "*.py[odc]",
         "dist/",
+        "*.egg-info/"
     ]
     GITIGNORE_TEMPLATE = """
         .gitignore-local

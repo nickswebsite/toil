@@ -8,3 +8,4 @@ README
 x/
 dist/
 *.egg-info/
+env/
